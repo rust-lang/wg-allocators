@@ -9,7 +9,7 @@ This WG aims to:
   most likely through an additional type parameter.
   
 Discussion has historically happened in (at least) [RFC #1398], [tracking issue #32838], and [tracking issue #42774].
-However individual GitHub theards become hard to navigate as they get longer.
+However individual GitHub threads become hard to navigate as they get longer.
 This repository’s issue tracker allows discussing and resolving various topics separately.
 
 
