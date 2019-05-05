@@ -1,0 +1,5 @@
+[package]
+authors = ["The Allocators WG"]
+name = "wg-allocators"
+version = "0.0.0"
+edition = "2018"
