@@ -19,6 +19,8 @@ To be notified of every issue and pull request in this repository, try GitHub’
 
 For lower-latency discussion, we have the [`t-libs/wg-allocators`] stream on Zulip.
 
+To try out different proposals, [Tim](https://github.com/TimDiekmann) has created a crate at [TimDiekmann/alloc-wg](https://github.com/TimDiekmann/alloc-wg). For more information on this consult the [readme](https://github.com/TimDiekmann/alloc-wg/blob/master/README.md).
+
 
 [`std::alloc::Alloc`]: https://doc.rust-lang.org/1.34.0/std/alloc/trait.Alloc.html
 [RFC #1398]: https://github.com/rust-lang/rfcs/pull/1398 "Allocators, take III"
